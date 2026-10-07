@@ -3,7 +3,7 @@ My First Repository
 
 ## Description
 
-This is my first long form repository to learn how to add different syntax to my repositories and add files and all that fun stuff. I will describe what I used to add the different headings and other visual additions to this repository. 
+This is my first long form repository to learn how to add different <ins>syntax</ins> to my repositories and add files and all that fun stuff. I will describe what I used to add the different headings and other visual additions to this repository. 
 
 I am just playing around with different coding terminology. I will be adding images and a blank excel file to learn how to properly upload files and 
 This is also to provide an outline for me to look back to when needing a reference point on how I like to format a repository. 
@@ -30,6 +30,8 @@ The next syntax i used was the **bold** syntax. I wanted to emphasize the school
 The next syntax I used was single the *italics* syntax. I wanted to italicize the name of the tools I used.  
 
 The fourth syntax I used was ~~strike through~~ strikethrough to cover a typo and show the mistake. 
+
+The last syntax I used was <ins>underline</ins> to add emphasis to what my goal was.
 
 ## Additional Information 
 
